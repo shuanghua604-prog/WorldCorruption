@@ -1,0 +1,14 @@
+[{
+  "modid": "corruption",
+  "name": "World Corruption",
+  "description": "Chunks randomly corrupt with flickering colors. Blue, Black, Red, Orange, Grey.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "authorList": ["Anonymous"],
+  "credits": "",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "screenshots": [],
+  "dependencies": []
+}]
